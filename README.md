@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Internet Of Things
 - 💞️ I’m looking to collaborate on Things
 - 📫 How to reach me 
-    ✉️ ruben.schadron@ap.be
+    ✉️ ruben.schadron@student.ap.be
 
 <!---
 Ruben-Schadron-AP/Ruben-Schadron-AP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
